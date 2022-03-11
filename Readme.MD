@@ -1,7 +1,7 @@
 # Majestic Wordpress Theme
 Majestic is a beautiful, responsive WordPress theme with a calm and open feeling to it.
 
-![Majestic Theme Preview](https://raw.githubusercontent.com/RStijn/Majestic-Theme/master/majestic/screenshot.png)
+![Majestic Theme Preview](https://user-images.githubusercontent.com/9306304/157987950-1ca453fe-fe15-4610-9258-255d7b431ac3.png)
 
 # Install
 Until this theme is added to the WordPress directory you can download it here.
